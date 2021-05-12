@@ -60,13 +60,13 @@
 
 ## 1.  Introduction to The ACTRIS Data Centre and ACTRIS Data Management Plan
 
-The Aerosol, Clouds and Trace Gases Research Infrastructure (ACTRIS) focuses on producing high-quality data for the understanding of short-lived atmospheric constituents and their interactions. These constituents have a residence time in the atmosphere from hours to weeks. The short lifetimes make their concentrations highly variable in time and space and involve processes occurring on very short timescales. These considerations separate the short-lived atmospheric constituents from long-lived greenhouse gases, and calls for a four dimensional distributed observatory. The Research Infrastructure (RI) ACTRIS is the pan-European RI that consolidates activities amongst European partners for observations of aerosols, clouds, and trace gases and for understanding of the related atmospheric processes, as well as to provide RI services to wide user groups (See the [Stakeholder Handbook](https://www.actris.eu/sites/default/files/2021-01/stakeholder%20handbook.pdf) for more information). 
+The Aerosol, Clouds and Trace Gases Research Infrastructure (ACTRIS) focuses on producing high-quality data for the understanding of short-lived atmospheric constituents and their interactions. These constituents have a residence time in the atmosphere from hours to weeks. The short lifetimes make their concentrations highly variable in time and space and involve processes occurring on very short timescales. These considerations separate the short-lived atmospheric constituents from long-lived greenhouse gases, and calls for a four-dimensional distributed observatory. The Research Infrastructure (RI) ACTRIS is the pan-European RI that consolidates activities amongst European partners for observations of aerosols, clouds, and trace gases and for understanding of the related atmospheric processes, as well as to provide RI services to wide user groups (See the [Stakeholder Handbook](https://www.actris.eu/sites/default/files/2021-01/stakeholder%20handbook.pdf) for more information). 
 
 ACTRIS data are data from observational or exploratory National Facilities complying with the procedures established within ACTRIS.
 
 ACTRIS observational platforms are fixed ground-based stations that produce long-term data based on a regular measurement schedule and common operation standards. These platforms perform measurements of aerosol, clouds, and reactive trace gases from the Earth surface throughout the troposphere up to the stratosphere by applying state-of-the-art remote-sensing and in situ measurement techniques under consideration of harmonized, standardized, and quality controlled instrumentation, operation procedures and data retrieval schemes. The sites are strategically located in diverse climatic regimes both within and outside Europe, and many of them contribute to one or several European and international networks, such as [EMEP](https://www.emep.int/), [NDACC](http://www.ndaccdemo.org/), or [GAW](http://www.wmo.int/pages/prog/arep/gaw/gaw_home_en.html), and are possibly partly shared with other environmental infrastructures, such as [ICOS](https://www.icos-cp.eu/), [SIOS](https://sios-svalbard.org/), [ANAEE](https://www.anaee.com/) or [eLTER](https://www.lter-europe.net/elter).
 
-ACTRIS exploratory platforms are either simulation chambers, or Laboratory platforms and mobile platforms. The chambers are among the most advanced tools for studying and quantifying atmospheric processes and are used to provide many of the parameters incorporated in air quality and climate models. Atmospheric simulation chamber data contribute to better predict the behavior of the atmosphere over all time scales through a detailed understanding of the physical and chemical processes, which affect air quality and climate change. Atmospheric simulation chambers are among the most advanced tools for studying and quantifying atmospheric processes and are used to provide many of the parameters incorporated in air quality and climate models. Laboratory platforms and mobile platforms are set up to perform dedicated experiments and contribute data on atmospheric constituents, processes, events or regions by following common ACTRIS standards are considered ACTRIS exploratory platform. 
+ACTRIS exploratory platforms are either simulation chambers, laboratory platforms, or mobile platforms. The chambers are among the most advanced tools for studying and quantifying atmospheric processes and are used to provide many of the parameters incorporated in air quality and climate models. Atmospheric simulation chamber data contribute to better predictions of the behavior of the atmosphere over all time scales through a detailed understanding of the physical and chemical processes, which affect air quality and climate change. Atmospheric simulation chambers are among the most advanced tools for studying and quantifying atmospheric processes and are used to provide many of the parameters incorporated in air quality and climate models. Laboratory platforms and mobile platforms are set up to perform dedicated experiments and contribute data on atmospheric constituents, processes, events or regions by following common ACTRIS standards are considered ACTRIS exploratory platform. 
 
 ![Architecture of the ACTRIS Data Centre](img/section1/Exp_Obs_NF.jpg)
 *Figure 1: Overview of the types of National Facilities providing data to ACTRIS Data Centre*
@@ -77,9 +77,9 @@ ACTRIS is a unique RI improving both the quality of and access to atmospheric ob
 
 > The mission of the ACTRIS Data Centre (DC) is to compile, archive and provide access to well documented and traceable ACTRIS measurement data and data products, including digital tools for data quality control, analysis, visualisation, and research. As a tool for science, the highest priorities for the ACTRIS DC are to maintain and increase the availability of ACTRIS data and data products relevant to climate and air quality research for all interested users.
 
-The overall goal of the ACTRIS Data Centre (DC) is to provide scientists and other user groups with free and open access to all ACTRIS data, complemented with access to innovative and mature data products, together with tools for quality assurance (QA), data analysis and research. ACTRIS data and products should be findable, accessible, interoperable and reusable (FAIR), and the data centre work towards fulfilling the [FAIR principles](https://www.force11.org/group/fairgroup/fairprinciples). 
+The overall goal of the ACTRIS Data Centre (DC) is to provide scientists and other user groups with free and open access to all ACTRIS data, complemented with access to innovative and mature data products, together with tools for quality assurance (QA), data analysis and research. ACTRIS data and products should be findable, accessible, interoperable and reusable (FAIR), and the data centre is working towards fulfilling the [FAIR principles](https://www.force11.org/group/fairgroup/fairprinciples). 
 
-The numerous measurement methodologies applied in ACTRIS result in a considerable diversity of the data collected. In accordance with these requirements. ACTRIS DC is organized in 6 Units, with clear links and procedures for interaction between the data centre Units, National Facilities (NFs) and topical centres (TCs).  There are 5 units with complementary topic expertise and 1 unit with integrating activities (DVAS). 
+The numerous measurement methodologies applied in ACTRIS result in a considerable diversity of the data collected. In accordance with these requirements. ACTRIS DC is organized in 6 Units, with clear links and procedures for interaction between the DC Units, National Facilities (NFs) and topical centres (TCs).  There are 5 units with complementary topic expertise and 1 unit with integrating activities (DVAS). 
 
 The units and short names are:
 
@@ -87,26 +87,26 @@ The units and short names are:
 * [ACTRIS In situ data centre unit (In-Situ)](http://ebas.nilu.no/)
 * [ACTRIS Aerosol remote sensing data centre unit (ARES)](https://data.earlinet.org/)
 * [ACTRIS Cloud remote sensing data centre unit (CLU)](https://cloudnet.fmi.fi/)
-* [ACTRIS trace gases remote sensing data centre unit (GRES)](https://en.aeris-data.fr/)
+* [ACTRIS Trace gas remote sensing data centre unit (GRES)](https://en.aeris-data.fr/)
 * [ACTRIS Atmospheric simulation chamber data centre unit (ASC)](https://data.eurochamp.org/)
 
-The ACTRIS DC is coordinated by the DVAS unit leader and all data is linked through the ACTRIS data portal serving as the access point to data and related information.
-Furthermore, the data center work is organized in the ACTRIS data management board and the ACTRIS data expert team. The role of the ACTRIS DC Management Board is to ensure that the ACTRIS DC as a whole operates in a coordinated and coherent manner. 
+ACTRIS DC is coordinated by the DVAS unit leader and all data is linked through the ACTRIS data portal serving as the access point to data and related information.
+Furthermore, the data centre work is organized by the ACTRIS data management board and the ACTRIS data expert team. The role of the ACTRIS DC Management Board is to ensure that ACTRIS DC as a whole operates in a coordinated and coherent manner. 
 
 The Management Board is responsible for:
-i.	The development of the Data Centre strategy together with Head Office (HO) and Topic Centers (TCs)
+i.	The development of the Data Centre strategy together with Head Office (HO) and Topic Centres (TCs),
 ii.	Implementing the agreed strategy,
 iii.	Establishing and monitoring the implementation of the Data Centre Work Programme, and
 iv.	Undertaking evaluation and monitoring of operations,
-v.	Serving as the link to and interact with the contributing RPOs
+v.	Serving as the link to and interaction with the contributing RPOs
 
-The ACTRIS Data Expert Team which is a transversal technical group with representatives of all the DC topic units. The ACTRIS Data Expert team has 3 main roles:
+The ACTRIS Data Expert Team is a transversal technical group with representatives from each DC topic unit. The ACTRIS Data Expert team has 3 main roles:
 
-1.Facilitate and ensure technical discussions and information flow across the data centre, exploiting and taking advantage ofthe expertise available to the benefit of all units
+1. Facilitate and ensure technical discussions and information flow across the data centre, exploiting and taking advantage of the expertise available to the benefit of all units
 
-2.Ensure the necessary interaction on common technical topics and issues (standards, interoperability, user feedback...). In particular, this group will be in charge of the technical specification of the ACTRIS DC portal, metadata catalogue and common machine-to-machine access interfaces. It will make surethat technical solutions are implemented in such a way that all data hosted and managed in the topic units are visible and accessible through the portal. It will plan new developments of the data centre, and monitor the progress.
+2. Ensure the necessary interaction on common technical topics and issues (standards, interoperability, user feedback...). In particular, this group will be in charge of the technical specification of the ACTRIS DC portal, metadata catalogue and common machine-to-machine access interfaces. It will make sure that technical solutions are implemented in such a way that all data hosted and managed in the topic units are visible and accessible through the portal. It will plan new developments of the data centre, and monitor the progress.
 
-3.Propose changes and further development of ACTRIS Data Management Plan, for discussions and approval by ACTRIS DC management board before implementation
+3. Propose changes and further development of the ACTRIS Data Management Plan, for discussions and approval by ACTRIS DC management board before implementation
 
 
 ![Architecture of the ACTRIS Data Centre](img/figures/figure2.jpg)
@@ -118,20 +118,20 @@ The following consortium is selected to host the ACTRIS Data Centre, and the var
 
 | Name of Central Facility and associated Unit                                | Hosting institution and contribution | Main activities                                                   |
 |--------------------------------------------------------------|--------------------------------------|--------------------------------------------------------------------|                                    
-| [ACTRIS Data Discovery, Virtual Access and Services unit (DVAS)](http://actris.nilu.no/)                | NILU (lead), CNRS, CNR, FMI, BSC        | ACTRIS web interface for data, services and tools, called “The ACTRIS Data Centre”. Main activities are discovery and access to ACTRIS data and data products, digital tools provided by the topical centres and the data centre units, documentation, access to software and tools for data production. Offer visualisation of ACTRIS data products. Data production of selected Level 3 data and synergy data products. The data centre will offer bridge to external data bases and sources.|
+| [ACTRIS Data Discovery, Virtual Access and Services unit (DVAS)](http://actris.nilu.no/)                | NILU (lead), CNRS, CNR, FMI, BSC        | ACTRIS web interface for data, services and tools, called “The ACTRIS Data Centre”. Main activities are discovery and access to ACTRIS data and data products, digital tools provided by the topical centres and the data centre units, documentation, access to software and tools for data production. Offer visualisation of ACTRIS data products. Data production of selected Level 3 data and synergy data products. The data centre will offer a bridge to external data bases and sources.|
 | [ACTRIS In-Situ data centre unit (In-Situ)](http://ebas.nilu.no/)                   | NILU                                 | Data curation service for in situ data: all aerosol, cloud and trace gas in situ data. This comprises inclusion of data in the data base EBAS, archiving and documentation. Support for centralized data processing, harmonization, traceability, quality control and data product generation. Training and online tools for QA, QC. The activity enables RRT and NRT delivery.|
 | [ACTRIS Aerosol remote sensing data centre unit (ARES)](https://data.earlinet.org/)		   | CNR (lead), CNRS					  |	Aerosol remote sensing data processing and curation. This includes centralized processing, traceability, harmonization and data versioning, quality control, data archiving in EARLINET DB, data provision and documentation. The activity enables RRT and NRT delivery. Production of level 3 data for climatological analysis and new products. Support and training. Tutorial activities. |	
 | [ACTRIS Cloud remote sensing data centre unit (CLU)](https://cloudnet.fmi.fi/)		   | FMI								  |	Data curation service for cloud remote sensing data. Support for centralized cloud remote sensing data processing, traceability, harmonization, automated quality control and product generation, and data archiving. Enables RRT and NRT delivery. Production of level 3 data for NWP model evaluation. | 
-| [ACTRIS trace gases remote sensing data centre unit (GRES)](https://gres.aeris-data.fr/)    | CNRS                                 | Data curation service for reactive trace gases remote sensing data. This comprises standardized process for data submission, quality control, inclusion of data in the AERIS data base, metadata creation and provision and archiving. Production of level 3 data for climatological analysis, and added values products (quicklooks, links to EVDC - ESA Atmospheric Validation Data Centre).|
-| [ACTRIS Atmospheric simulation chamber data centre unit (ASC)](https://data.eurochamp.org/) | CNRS                                 | Data curation service for atmospheric simulation chamber data. This includes standardized process for data submission, quality control, inclusion of data in the AERIS data base, search metadata creation and provision and archiving.|
+| [ACTRIS trace gases remote sensing data centre unit (GRES)](https://gres.aeris-data.fr/)    | CNRS                                 | Data curation service for reactive trace gases remote sensing data. This comprises standardized process for data submission, quality control, inclusion of data in the AERIS data base, metadata creation and provision and archiving. Production of level 3 data for climatological analysis, and added-value products (quicklooks, links to EVDC - ESA Atmospheric Validation Data Centre).|
+| [ACTRIS Atmospheric simulation chamber data centre unit (ASC)](https://data.eurochamp.org/) | CNRS                                 | Data curation service for atmospheric simulation chamber data. This includes standardized processes for data submission, quality control, inclusion of data in the AERIS data base, search metadata creation and provision and archiving.|
 
 *Table 1: Short description of the ACTRIS DC units and the research performing organizations leading and contributing to the units.*
 
 ### 1.2 The overall goal and structure of ACTRIS Data Management Plan
 
-The ACTRIS Data Management Plan (DMP) document the key elements of the ACTRIS data management life cycle, and the plans for the data collected, processed and/or generated. The goal of the DMP is to describe the present situation and the operational ACTRIS data center. Furthermore the DMP should also describe the technical solutions agreed, that are currently under implementation, and outline the strategy and development needed towards making ACTRIS data FAIR at ACTRIS Data Centre Level.
+The ACTRIS Data Management Plan (DMP) documents the key elements of the ACTRIS data management life cycle, and the plans for the data collected, processed and/or generated. The goal of the DMP is to describe the present situation and the operational ACTRIS data centre. Furthermore, the DMP should also describe the technical solutions agreed, that are currently under implementation, and outline the strategy and development needed towards making ACTRIS data FAIR at the ACTRIS Data Centre Level.
 
-The DMP will be updated regularly in accordance with the development, at least 4 times per year. The ACTRIS DMP is an online document which is set up to be machine-actionable as a part of the FAIR data ecosystem. The DMP should be a hub of information on ACTRIS FAIR digital objects. The goal is to make the ACTRIS DMP accessible for all stakeholders (repository operators, funders, researchers, publishers, infrastructure providers etc.) by making it available and accessible for both humans and machines. We currently use GitHub as the platform for collaboration on the DMP, this enables all actors working with or within ACTRIS to directly contribute and suggest changes to the document. Furthermore, the ACTRIS Data Management Plan should follow the glossary of terminology and definitions used in ACTRIS.
+The DMP will be updated regularly in accordance with the development, at least 4 times per year. The ACTRIS DMP is an online document which is set up to be machine-actionable as a part of the FAIR data ecosystem. The DMP should be a hub of information on ACTRIS FAIR digital objects. The goal is to make the ACTRIS DMP accessible for all stakeholders (repository operators, funders, researchers, publishers, infrastructure providers etc.) by making it available and accessible for both humans and machines. We currently use GitHub as the platform for DMP collaboration; this enables all actors working with or within ACTRIS to directly contribute and suggest changes to the document. Furthermore, the ACTRIS Data Management Plan should follow the glossary of terminology and definitions used in ACTRIS.
 
 
 ## 2. ACTRIS data and ACTRIS data levels
@@ -141,21 +141,21 @@ ACTRIS data are data from observational or exploratory National Facilities compl
 There are 4 levels of ACTRIS data:
  * **ACTRIS level 0 data:** Raw sensor output, either mV or physical units. Native resolution, metadata necessary for next level.
  * **ACTRIS level 1 data:** Calibrated and quality assured data with minimum level of quality control.
- * **ACTRIS level 2 data:** Approved and fully quality controlled ACTRIS data product or geophysical variable.
+ * **ACTRIS level 2 data:** Approved and fully quality-controlled ACTRIS data product or geophysical variable.
  * **ACTRIS level 3 data:** Elaborated ACTRIS data products derived by post-processing of ACTRIS Level 0 -1 -2 data, and data from other sources. The data can be gridded or not.
  
-Additionally to these data products which are completely under the control of ACTRIS with established procedures and standards, the ACTRIS DC will also produce additional data products of interest of the the scientific and  user communities. These are   **ACTRIS synthesis product:** data products from e.g. research activities, not under direct ACTRIS responsibility, but for which ACTRIS offers repository and access.
+Additionally to these data products which are completely under the control of ACTRIS with established procedures and standards, ACTRIS DC will also produce additional data products of interest of the the scientific and  user communities. These are   **ACTRIS synthesis product:** data products from e.g. research activities, not under direct ACTRIS responsibility, but for which ACTRIS offers repository and access.
 
 ![Architecture of the ACTRIS Data Centre](img/ACTRIS_data_levels.jpg)
 *Figure 3: ACTRIS data levels*
 
-The list of ACTRIS variables are expected to increase during the progress of ACTRIS. Level 3 data products are expected to increase in quantity and number of variables because of the expected increase in ACTRIS data synergistic usage with other datasets. Additionally the expected technological and methodological developments fostered by ACTRIS itself will increase the ACTRIS observational capabilities and therefore the number and quality of observable atmospheric related variables (Level 1 and Level 2 products).
+The list of ACTRIS variables are expected to increase during the progress of ACTRIS. Level 3 data products are expected to increase in quantity and number of variables because of the expected increase in ACTRIS data synergistic usage with other datasets. Additionally, the expected technological and methodological developments fostered by ACTRIS itself will increase the ACTRIS observational capabilities and therefore the number and quality of observable atmospheric related variables (Level 1 and Level 2 products).
 
 ## 3. Data summary of the ACTRIS data centre
 
 #### The purpose of the data collection/generation
 
-Primary goal of ACTRIS is to produce high quality integrated datasets in the area of atmospheric sciences and provide services, including access to instrumented platforms, tailored for scientific and technological usage. The purpose of the data collection and generation of data products in ACTRIS is to provide open access to aerosol, cloud and trace gas in situ and remote sensing measurements of high quality, benefiting a large community of scientists involved in atmospheric science and related areas as well as policy makers, the private sector, educators and the general public. 
+Primary goal of ACTRIS is to produce high quality integrated datasets in the area of atmospheric sciences and provide services, including access to instrumented platforms, tailored for scientific and technological usage. The purpose of the data collection and generation of data products in ACTRIS is to provide open access to aerosol, cloud and trace gas in situ and remote sensing measurements of high quality, benefiting a large community of scientists involved in atmospheric science and related areas, as well as policy makers, the private sector, educators and the general public. 
 
 See the [Stakeholder Handbook](hhttps://www.actris.eu/sites/default/files/2021-01/stakeholder%20handbook.pdf) for more information.
 
@@ -165,9 +165,9 @@ The main objectives of ACTRIS are:
 
 * to provide information on the 4D-compositon and variability and of the physical, optical and chemical properties of short-lived atmospheric constituents, from the surface throughout the troposphere to the stratosphere, with the required level of precision, coherence and integration;
 * to provide information and understanding on the atmospheric processes driving the formation, transformation and removal of short-lived atmospheric constituents;
-* to provide efficient open access to ACTRIS data and services and the means to effectively use the ACTRIS products;
+* to provide efficient open access to ACTRIS data and services and the means to effectively use ACTRIS products;
 * to ensure and raise the quality of data and use of up-to-date technology used in the RI and the quality of services offered to the community of users, involving partners from the private sector; and
-* to promote training of operators and users and enhance linkage between research, education and innovation in the field of atmospheric science.
+* to promote training of operators and users and enhance the links between research, education and innovation in the field of atmospheric science.
 
 
 Management of ACTRIS data relates to measuring atmospheric composition and the ability to predict the future behavior of the atmosphere over all time scales. High quality observational data harmonized across the countries and continents facilitates this, and needs to be supported by:
@@ -200,7 +200,7 @@ ACTRIS will produce data and data products essential to a wide range of communit
 The In-Situ data centre unit provides data curation service for aerosol, cloud and trace gas in situ data, as well as archiving of this data using the EBAS database. This comprises tools for harmonized data submission and meta data templates, inclusion of data and meta data in the data base, documenting (meta)data traceability and provenance, harmonization and data versioning, quality control, archiving, documentation, data identification, and data provision. Training and online tools for QA/QC are offered. The activity enables RRT and NRT data collection, compilation and delivery, and provides tutorial activities. Furthermore, support for centralized data processing, harmonization, and data product generation, both level 2 and level 3 are offered and further implemented during the implementation phase.
 
 #### The types and formats of data generated/collected
-The ACTRIS In-situ data centre unit is supported by the [EBAS database infrastructure](http://ebas.nilu.no/ResourcesATMOS/AboutEBAS.pdf). In situ data submitted to ACTRIS need to be formatted in the EBAS NASA-Ames format (ASCII file) by the data originator. There are exsisting [instructions and templates](https://ebas-submit.nilu.no/) for each instrument/group of instruments. [The EBAS NASA-Ames format](https://projects.nilu.no//ccc/tfmm/kjeller_2016/EBAS_Data_Format_2016-10.pdf) is based on the ASCII text NASA-Ames 1001 format, but uses an additional profile with metadata specifications ensuring proper documentation from the [EBAS-Submit documentation](https://ebas-submit.nilu.no/) website as well as tools for [file-generation](http://dev-ebas-file-generation-tool.nilu.no/) (*beta*) and [file-submission](https://ebas-submit-tool.nilu.no/).
+The ACTRIS In-situ data centre unit is supported by the [EBAS database infrastructure](http://ebas.nilu.no/ResourcesATMOS/AboutEBAS.pdf). In situ data submitted to ACTRIS need to be formatted in the EBAS NASA-Ames format (ASCII file) by the data originator. There are existing [instructions and templates](https://ebas-submit.nilu.no/) for each instrument/group of instruments. [The EBAS NASA-Ames format](https://projects.nilu.no//ccc/tfmm/kjeller_2016/EBAS_Data_Format_2016-10.pdf) is based on the ASCII text NASA-Ames 1001 format, but uses an additional profile with metadata specifications ensuring proper documentation from the [EBAS-Submit documentation](https://ebas-submit.nilu.no/) website as well as tools for [file-generation](http://dev-ebas-file-generation-tool.nilu.no/) (*beta*) and [file-submission](https://ebas-submit-tool.nilu.no/).
 
 ACTRIS in situ data are also available in netCDF 4 format through the [EBAS Thredds Server](https://thredds.nilu.no/thredds/catalog.html), following the [CF 1.7 convention](http://cfconventions.org/Data/cf-conventions/cf-conventions-1.7/cf-conventions.html) and the [Attribute Convention for Data Discovery 1-3 (ACDD)](http://wiki.esipfed.org/index.php/Attribute_Convention_for_Data_Discovery_1-3). EBAS metadata are available through an [OAI-PMH metadata endpoint serving](https://ebas-oai-pmh.nilu.no/oai/provider?verb=ListIdentifiers&metadataPrefix=iso19115) serving metadata with a profile meeting ISO 19115-2, CF-1.7, and ACDD specifications.
 
@@ -232,7 +232,7 @@ The data are derived from instrument raw data, either through online or offline 
 
 #### Data utility
 
-According to [IPCC AR5](https://www.ipcc.ch/site/assets/uploads/2018/02/SYR_AR5_FINAL_full.pdf), aerosol particles in the atmosphere are the most prominent source of uncertainty of climate predictions. Depending on their properties, they can have a warming as well as cooling effect on climate by scattering and absorbing solar radiation, and they can extend brightness and lifetime of clouds. Volatile organic compunds (VOCs) are one source of precursors for aerosol particles by forming condensable vapours during oxidation and decay in the atmosphere. By interaction with nitrogen oxides (NO_x), themselves a pollutant emitted by combustion, decaying VOCs form ozone (O_3), another pollutant. All of these, particulate matter, VOCs, NO_x, and ozone, have adverse effects on human health. Data on concentrations and properties of these compounds stored in the ACTRIS DC In Situ unit address all of the named effects:
+According to [IPCC AR5](https://www.ipcc.ch/site/assets/uploads/2018/02/SYR_AR5_FINAL_full.pdf), aerosol particles in the atmosphere are the most prominent source of uncertainty in climate predictions. Depending on their properties, they can have a warming or a cooling effect on climate by scattering and absorbing solar radiation, and they can extend brightness and lifetime of clouds. Volatile organic compunds (VOCs) are one source of precursors for aerosol particles by forming condensable vapours during oxidation and decay in the atmosphere. By interaction with nitrogen oxides (NO_x), themselves a pollutant emitted by combustion, decaying VOCs form ozone (O_3), another pollutant. All of these, particulate matter, VOCs, NO_x, and ozone, have adverse effects on human health. Data on concentrations and properties of these compounds stored in the ACTRIS DC In Situ unit address all of the named effects:
 * **In Situ** data feed into the IPCC assessment reports in order to quantify and reduce the uncertainty of climate change.
 * **In Situ** data are the basis of national and international assessment reports of air quality.
 * **In Situ** data feed into and validate operational air quality prediction products, e.g. by Copernicus.
@@ -245,18 +245,18 @@ Detail on the data life cycle and workflow (workflow diagrams for data productio
 
 The ARES data centre unit provides data curation and data processing service for aerosol remote sensing data coming from lidar and photometer observations. This includes centralized data processing, data storage, recording of metadata in a dedicated RDBMS, traceability, harmonization and data versioning, quality control, documentation and data provision. The unit allows for RRT and NRT data provisioning and offers support and training activities. Furthermore, level 3 data production for climatological analysis and the delivery of new data products will be further implemented and offered during the implementation phase.
 
-The main goal is providing access of high quality and document datasets of the aerosol optical properties vertical distribution in the whole troposphere and upper stratosphere with short time resolution.
+The main goal is providing access to high quality and documented datasets of the vertical distribution of aerosol optical properties throughout the entire troposphere and lower stratosphere with short time resolution.
 This long term dataset collected at continental scale allows:
-- investigation of the relationship between near-surface processes (as pollution or air quality issues) and atmospheric aerosol contents;
-- addressing the challenging issue of direct and indirect effects of aerosol in the climate change.
+- investigation of the relationship between near-surface processes (as pollution or air quality issues) and atmospheric aerosol content;
+- addressing the challenging issue of direct and indirect effects of aerosol on climate change.
 
 #### The types and formats of data generated/collected
 
-The ACTRIS ARES data centre unit is built on the heritage of the EARLINET data base infrastructure and will integrate the photometer aerosol data processing. Aerosol remote sensing data submitted to ACTRIS need to be compliant to a specific format established by the ARES unit centralized processing suite. All further data levels are produced by the ARES processing suite. ARES provides data compliance with NetCDF4, following Climate Forecast (CF) 1.7 conventions. 
+The ACTRIS ARES data centre unit is built on the heritage of the EARLINET data base infrastructure and will integrate photometer aerosol data processing. Aerosol remote sensing data submitted to ACTRIS need to be compliant to a specific format established by the ARES unit centralized processing suite. All further data levels are produced by the ARES processing suite. ARES provides data compliance with NetCDF4, following Climate Forecast (CF) 1.7 conventions. 
 
-* ARES Level 1 data products consist of high and low resolution total attenuated backscatter and volume depolarization ratio time series provided in NRT or RRT. Data provided by  photometer observations are also available. Additionally ARES provides columnar information and synergistic lidar/photometer products as vertical profiles of aerosol microphysical properties as Level 1 data.
+* ARES Level 1 data products consist of high and low resolution total attenuated backscatter and volume depolarization ratio time series provided in NRT or RRT. Data provided by  photometer observations are also available. Additionally, ARES provides columnar information and synergistic lidar/photometer products as vertical profiles of aerosol microphysical properties as Level 1 data.
 
-* ARES Level 2 data products contain fully quality assured aerosol extinction, backscatter, lidar ratio, Angstrom exponent and depolarization ratio vertical profiles and full quality controlled columnar information and aerosol microphysical properties profiles.
+* ARES Level 2 data products contain fully quality assured vertical profiles of aerosol extinction, backscatter, lidar ratio, Angstrom exponent and depolarization ratio, and full quality controlled columnar information and profiles of aerosol microphysical properties.
 
 * ARES Level 3 data products are retrieved from the level 2 data and provide statistical analysis (including seasonality and annuality) of the most important aerosol optical parameters.
 
@@ -303,13 +303,23 @@ Details of the data life cycle and workflow (workflow diagrams for data producti
 
 The CLU data centre unit provides data curation and data processing service of cloud remote sensing data. This includes centralized processing, traceability, harmonization and data versioning, quality control, data provision and archiving, and documentation. The activity enables RRT and NRT data compilation and delivery, and participation in training. Furthermore, data product generation of level 3 data for forecast and climate model evaluation, climatological analysis and new products is offered and further implemented during the implementation phase. 
 
+The main goal is the comprehensive characterisation of the vertical profile of cloud properties throughout the troposphere at high spatial and temporal resolution. The long-term datasets collected at continental scale permit:
+
+* understanding the impact of clouds on the Earth's radiation budget and improving their representation in numerical weather prediction (NWP) models
+* investigating the processes and feedbacks in aerosol-cloud-precipitation interaction, necessary for inproving climate modelling 
+
+
 #### The types and formats of data generated/collected
 
-The ACTRIS CLU data centre unit is making use of the so-called Cloudnet processing and archiving infrastructure,
+The ACTRIS CLU data centre unit builds on the heritage of Cloudnet and uses the Cloudnet processing scheme and archiving infrastructure,
 operated at the Finnish Meteorological Institute, Helsinki, Finland.
 Level 0 data submitted to ACTRIS CLU are required to be in a specified format compliant with the centralized processing suite.
 All further data levels are produced by the CLU processing suite and provided for users. CLU provides harmonized data products
 compliant with netCDF4 format, following CF 1.7 convention as much as possible.
+
+* CLU Level 1 data products comprise quality-controlled and calibrated datasets from individual instruments: cloud radar, lidar/ceilometer, microwave radiometer, disdrometer, Doppler lidar
+* CLU Level 2 products combine the quality-controlled information from the individual instruments to generate the target classification product (diagnosing the presence of aerosol, cloud, precipitation and insects, and determining cloud phase) and the cloud microphysical products, all in NRT or RRT. LEvel 2 products also include thermodynamic profiles from microwave radiometer, winds and turbulent properties from Doppler lidar (and potentially cloud radar), and an atmospheric boundary layer classification from combining Doppler lidar products.
+* CLU Level 3 products are generated from Level 2 data and provide statistical analysis (seasonal and diurnal composites) and NWP model evaluation 
 
 #### Re-use of existing data
 
@@ -340,8 +350,8 @@ Data is derived from instrument raw data, coupled with thermodynamic profiles fr
 Clouds are highly variable in time, space, and in their macro- and microphysical aspects. This variability directly impacts radiative transfer and the hydrological cycle, and the accurate representation of clouds is fundamental to climate and numerical weather prediction.
 CLU products are particular valuable for investigating the response of cloud microphysical processes to changes in other atmospheric variables (aerosol-cloud-precipitation interaction), evaluating and developing the parametrization schemes used to represent cloud in climate and numerical weather prediction models, and for validating satellite products used in data assimilation.
 
-CLU level 2 data are utilised by a large community of atmospheric scientists and operational agencies, with products permitting both process studies and model parametrization
-CLU level 3 comprises climatological products for climate and forecast model evaluation, together with seasonal and diurnal composites enabling the characterisation of cloud properties across Europe.
+* CLU level 2 data are utilised by a large community of atmospheric scientists and operational agencies, with products permitting both process studies and model parametrization
+* CLU level 3 comprises climatological products for climate and forecast model evaluation, together with seasonal and diurnal composites enabling the characterisation of cloud properties across Europe.
 
 
 #### Outline of data life cycle (workflow and workflow diagram)
@@ -360,7 +370,7 @@ The ACTRIS-GRES unit is structured in one unique database including measurements
 	- PANDORA instruments.
 -   LIDAR DIAL: Differential Absorption Lidar.
 
-All data are stored in the GRES database which is hosted by the French data center for atmospheric data AERIS. 
+All data are stored in the GRES database which is hosted by the French data centre for atmospheric data, AERIS. 
 
 #### The types and formats of data generated/collected
 
@@ -770,9 +780,9 @@ The following responsibilities specific to offline observations are distributed 
 
 #### 4.2.3 ARES dataflow and data management
 
-At the present, the ACTRIS aerosol remote sensing component is a highly inhomogeneous in terms of instrumentations: most of the lidar systems are home-made or highly customized. In cases like that, the implementation of a standard, centralized and quality assured scheme for the analysis of raw data is the most efficient solution to provide FAIR and quality assured data at RI level. 
+At  present, the ACTRIS aerosol remote sensing component is a highly inhomogeneous in terms of instrumentation: most of the lidar systems are home-made or highly customized. In this case, the implementation of a standard, centralized and quality assured scheme for the analysis of raw data is the most efficient solution to provide FAIR and quality assured data at RI level. 
 
-The SCC (EARLINET Single Calculus Chain) is the solution adopted by the ACTRIS (Aerosol, Clouds and Trace gases Research InfraStructure Network) aerosol remote data center to ensure homogenous, traceable and quality controlled data. Main concepts at the base of the SCC are automatization and full traceability of quality-assured aerosol optical products.
+The SCC (EARLINET Single Calculus Chain) is the solution adopted by the ACTRIS (Aerosol, Clouds and Trace gases Research InfraStructure Network) aerosol remote data center to ensure homogeneous, traceable and quality controlled data. The Main concepts at the heart of the SCC are automatization and full traceability of quality-assured aerosol optical products.
 
 The ARES DC also compiles aerosol optical and physical properties (profile and column) from combined lidar + photometer observations collected at NFs. The GARRLiC (Generalized Aerosol Retrieval from Radiometer and Lidar Combined data) retrieval will be used for this, which synergistically inverts coincident lidar and radiometer observations, starting from SCC products and AERONET-ACTRIS processing stream products. Another declination of the GRASP (Generalized Retrieval of Atmosphere and Surface Properties) algorithm is also operated : GRASP-AOD. It derives aerosol size properties from the AERONET-ACTRIS aerosol optical depths. These processing streams are fully controlled by ACTRIS.
 
@@ -829,26 +839,18 @@ Broadening the concept, the ARES-CNR activities can be grouped according to the 
 All data are stored in the ARES database which is hosted by the CNR ARES data center. Photometer-only data are stored by the French data center for atmospheric data AERIS. Only metadata for discovery will be provided to the DVAS unit. 
 
 #### 4.2.4 CLU dataflow and data management
+The ACTRIS cloud remote sensing component combines the information from multiple instruments in order to generate the cloud target categorisation product from which the cloud microphysical products are generated. Each station may have a different set of instrument versions (which may operate at different frequencies or wavelengths for example). The full processing chain is automated and performed by the Cloudnet processing scheme, which ensures harmonised, traceable and quality-controlled data from any of the possible instrument combinations. 
 
-Modern cloud remote sensing instruments can produce vast amounts of raw data. This data first need to be stored locally
-at the measurement site. Then, the data are transferred to FMI servers for processing and archiving. Currently, FMI offers
-an HTTP API to establish the file transfer, but it is site operators responsibility to maintain regular data flow to FMI.
+Modern cloud remote sensing instruments can produce vast amounts of raw data, especially when recording Doppler spectra. The local measurement site must be capable of storing the raw data locally. The data are transferred to FMI servers for processing and archiving through an HTTP API. The API is designed for automatic usage and it is the site operator's responsibility to maintain a regular data flow to FMI.
 
-It should be noted that, technically, it is also possible to execute the first processing step already on site, and
-only transfer the processed measurement files, that are much smaller, to FMI for further processing.
-It is currently unclear if this option will be used in the operational ACTRIS processing or not.
+It should be noted that it is technically possible to execute the first processing steps on site, and only transfer the processed measurement files, which are much smaller, to FMI for further processing. This option is being phased out during the implementation phase of ACTRIS.
 
-At FMI, the raw measurement files from various instruments are processed to obtain more standardized netCDF files with
-a common metadata structure. In this stage, we also screen out noisy data points and apply possible calibration factors.
-This first processing step is applied to cloud radar and lidar measurements, but the microwave radiometer (MWR) data are
-processed elsewhere. FMI only receives the calibrated and processed Level 2 MWR files needed in the further processing steps.
+At FMI, the first step is to process the raw measurement files from each instrument to obtain standardized netCDF files with a common metadata structure. In this stage, we also screen out noisy data points and apply calibration factors where required. Calibration factors are currently applied from in-house knowledge, but will be replaced with a system operated by the topical centre CCRES. The resulting files comprise Level 1 data. The first processing step is applied to cloud radar and lidar measurements, but the microwave radiometer (MWR) data are currently processed elsewhere. FMI only receives the calibrated and processed Level 2 MWR files needed in the further processing steps. This will change during the implementation phase.
 
-After receiving and processing the raw data (and receiving MWR files), we generate all Level 2 cloud products with our in-house
-processing suite. All processed data are stored in netCDF files, which are archived on FMIs on-premises S3 cloud storage. From the
-processed files, we generate a metadata database which is synchronized with the master metadata repository
-hosted by the DVAS unit. All of our metadata is available as a JSON format via restful HTTP API.
-The actual metadata standard is yet to be decided, but it must comply with the netCDF conventions because
-we use the netCDF file format. All data files encounter regular back-ups.
+After receiving and processing the raw data (and receiving MWR files), all Level 2 cloud products are generated and stored in netCDF files, which are archived in FMIs on-premises S3 cloud storage. From the processed files, a metadata database is generated which is synchronized with the master metadata repository hosted by the DVAS unit. All metadata is available as a JSON format via restful HTTP API. 
+Level 3 model evaluation and climatological products are then generated fom Level 2 products.
+
+The actual metadata standard is yet to be decided, but it must comply with the netCDF conventions because we use the netCDF file format. All data files encounter regular back-ups.
 
 A general overview of the links between national facilities, CLU, and the corresponding topical centre, CCRES, are illustrated in Figure 10.
 ![CLU services](img/section4/clu_data_flow.png)
